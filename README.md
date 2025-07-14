@@ -14,8 +14,17 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 
 ### 💼 **Experience**
 
-**Data Engineer** - LTIMindtree (Larsen and Toubro Group Company)  
-**Location**: Mumbai  
+### **Data Engineer** – IBM India Pvt Limited  
+**Location**: Mumbai (Onsite at State Bank of India)  
+**Duration**: June 2025 – Present  
+
+- Led the successful migration of core data systems from **Oracle to IBM DB2**, delivering a **14% boost in performance** and generating **significant annual cost savings** for the bank's infrastructure operations.  
+- Architected and deployed a **real-time data ingestion pipeline** to process **150+ million semi-structured records** from 10+ internal and external sources using **Apache Kafka** and **PySpark**, supporting time-sensitive banking operations and reporting.  
+- Designed the **end-to-end data pipeline architecture** for a newly launched banking product, which scaled from **0 to 125,000 daily active users**, ensuring high throughput and seamless data availability.
+
+
+### **Data Engineer** - LTIMindtree (Larsen and Toubro Group Company)  
+**Location**: Mumbai  (Onsite at adidas)
 **Duration**: August 2021 – Present  
 
 - Developed and managed complex ETL pipelines to enhance data processing and transformation.
