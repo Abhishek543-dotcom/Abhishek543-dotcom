@@ -1,6 +1,6 @@
 👋 Hi, I'm **Abhishek Tiwari**  
 **Data Engineer | Cloud Enthusiast | Problem Solver**  
-📍 **Location**: Noida, UP, India  
+📍 **Location**: Mumbai , Maharastra , India  
 📞 **Phone**: +91 8960077051  
 ✉️ **Email**: abhi1931480@gmail.com  
 
