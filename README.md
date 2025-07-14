@@ -25,7 +25,7 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 
 ### **Data Engineer** - LTIMindtree (Larsen and Toubro Group Company)  
 **Location**: Mumbai  (Onsite at adidas)
-**Duration**: August 2021 – Present  
+**Duration**: August 2021 – June 2025 
 
 - Developed and managed complex ETL pipelines to enhance data processing and transformation.
 - Leveraged **Databricks** and **Apache Spark** for data ingestion, transformation, and optimization.
