@@ -14,18 +14,28 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 
 ### 💼 **Experience**
 
-### **Data Engineer** – IBM India Pvt Limited  
+### JP Morgan Chase & Co. | **Senior Data Engineer**  
+**Location:** Mumbai, Maharashtra  
+**Duration:** February 2026 – Present  
+**Department:** Credit Card Transactions & Risk Analytics  
+
+-	Built and maintained large-scale transaction analytics platforms for the Credit Card division, processing millions of daily records using AWS, Spark, PySpark, Iceberg, and Parquet, enabling real-time fraud detection and customer insights.
+-	Led the development of end-to-end data products using Python, SQL, Java, and Spark, delivering highly reliable datasets for risk, compliance, and business teams, improving decision accuracy and operational efficiency.
+-	Owned the complete data engineering lifecycle in a product environment — from architecture design to deployment — using CI/CD pipelines, Bitbucket, and Jira, ensuring faster releases, high code quality, and 99.9% system availability.
+
+
+### IBM India Pvt Limited | **Data Engineer** 
 **Location**: Mumbai (Onsite at State Bank of India)  
-**Duration**: June 2025 – Present  
+**Duration**: June 2025 – January 2026  
 
 - Led the successful migration of core data systems from **Oracle to IBM DB2**, delivering a **14% boost in performance** and generating **significant annual cost savings** for the bank's infrastructure operations.  
 - Architected and deployed a **real-time data ingestion pipeline** to process **150+ million semi-structured records** from 10+ internal and external sources using **Apache Kafka** and **PySpark**, supporting time-sensitive banking operations and reporting.  
 - Designed the **end-to-end data pipeline architecture** for a newly launched banking product, which scaled from **0 to 125,000 daily active users**, ensuring high throughput and seamless data availability.
 
 
-### **Data Engineer** - LTIMindtree (Larsen and Toubro Group Company)  
-**Location**: Mumbai  (Onsite at adidas)
-**Duration**: August 2021 – June 2025 
+### LTIMindtree (Larsen and Toubro Group Company) | **Data Engineer**
+**Location**: Mumbai  (Onsite at adidas)  
+**Duration**: August 2021 – June 2025   
 
 - Developed and managed complex ETL pipelines to enhance data processing and transformation.
 - Leveraged **Databricks** and **Apache Spark** for data ingestion, transformation, and optimization.
