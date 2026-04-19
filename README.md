@@ -45,30 +45,15 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 
 ---
 
-### 🚀 **Projects**
-
-#### [Auto Apply LinkedIn Scraper](https://github.com/Abhishek543-dotcom/auto_apply.git)  
-A Python-based web scraping tool to extract Data Engineer job listings from LinkedIn. It automates scrolling, gathering job details, and exports data to CSV.  
-**Technologies**: Selenium, Python, Pandas, Chrome WebDriver  
-
-#### [Job Scheduler](https://github.com/Abhishek543-dotcom/Job-Scheduler.git)  
-A command-line Job Scheduler app built using a Binary Search Tree (BST) for efficient task scheduling and conflict detection.  
-**Technologies**: Python, BST, File Handling  
-
-#### [Automated Job Application Email Sender](https://github.com/Abhishek543-dotcom/sending_mails.git)  
-Automates sending personalized job application emails with resume attachments using Gmail's SMTP server.  
-**Technologies**: Python, Selenium, smtplib, SMTP Server  
-
----
-
 ### 🔧 **Skills**
 
-- **Programming**: Python, Scala, Bash, SQL, SQL Server, PySpark
-- **Cloud Platforms**: AWS (Glue, S3, EC2, IAM, VPC, EMR, Redshift, DynamoDB, Lambda, CloudWatch, Athena, SNS)
-- **Big Data Technologies**: Databricks, Spark, Hadoop
-- **CI/CD Tools**: Jenkins, Git, Terraform
-- **Data Visualization**: Power BI
-- **Workflow Management**: Jira, ServiceNow
+- **Programming**: Python, SQL, Java, Bash
+- **Big Data**: Apache Spark (PySpark), Kafka, Hadoop, Hive, Airflow, Iceberg, Delta Lake
+- **Cloud & Platforms**: AWS (S3, Glue, Lambda, EKS, ECS, ECR, EC2, IAM, CloudWatch, Athena), Databricks, Snowflake
+- **Data Engineering**: ETL Pipelines, Data Lake Architecture, Data Modeling, Data Warehousing
+- **DevOps & Tools**: Git, Jenkins, Docker, Kubernetes, CI/CD, Jira, Confluence , ServiceNow
+- **Analytics & Visualization**: Power BI, Pandas, NumPy, Matplotlib
+- **Generative AI & ML**: RAG, LLM Applications, Prompt Engineering, Vector Embeddings, Semantic Search, FastAPI, Scikit-learn, PyTorch
 
 ---
 
