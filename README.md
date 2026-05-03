@@ -8,7 +8,7 @@
 
 ### 🛠 **About Me**
 
-I’m a passionate Data Engineer with over 3 years of experience in developing, optimizing, and maintaining scalable data pipelines and architectures in cloud environments. Proficient in **AWS**, **Databricks**, **ETL processes**, and **data governance**, I’ve contributed to projects that enhance data quality, operational efficiency, and decision-making for data-driven organizations. My toolkit includes **Python**, **PySpark**, **SQL**, and CI/CD tools like **Jenkins** and **Terraform**.
+I'm a passionate Data Engineer with over 3 years of experience in developing, optimizing, and maintaining scalable data pipelines and architectures in cloud environments. Proficient in **AWS**, [...]
 
 ---
 
@@ -19,18 +19,18 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 **Duration:** February 2026 – Present  
 **Department:** Credit Card Transactions & Risk Analytics  
 
--	Built and maintained large-scale transaction analytics platforms for the Credit Card division, processing millions of daily records using AWS, Spark, PySpark, Iceberg, and Parquet, enabling real-time fraud detection and customer insights.
--	Led the development of end-to-end data products using Python, SQL, Java, and Spark, delivering highly reliable datasets for risk, compliance, and business teams, improving decision accuracy and operational efficiency.
--	Owned the complete data engineering lifecycle in a product environment — from architecture design to deployment — using CI/CD pipelines, Bitbucket, and Jira, ensuring faster releases, high code quality, and 99.9% system availability.
+-	Built and maintained large-scale transaction analytics platforms for the Credit Card division, processing millions of daily records using AWS, Spark, PySpark, Iceberg, and Parquet, enabling real[...]
+-	Led the development of end-to-end data products using Python, SQL, Java, and Spark, delivering highly reliable datasets for risk, compliance, and business teams, improving decision accuracy and [...]
+-	Owned the complete data engineering lifecycle in a product environment — from architecture design to deployment — using CI/CD pipelines, Bitbucket, and Jira, ensuring faster releases, high c[...]
 
 
 ### IBM India Pvt Limited | **Data Engineer** 
 **Location**: Mumbai (Onsite at State Bank of India)  
 **Duration**: June 2025 – January 2026  
 
-- Led the successful migration of core data systems from **Oracle to IBM DB2**, delivering a **14% boost in performance** and generating **significant annual cost savings** for the bank's infrastructure operations.  
-- Architected and deployed a **real-time data ingestion pipeline** to process **150+ million semi-structured records** from 10+ internal and external sources using **Apache Kafka** and **PySpark**, supporting time-sensitive banking operations and reporting.  
-- Designed the **end-to-end data pipeline architecture** for a newly launched banking product, which scaled from **0 to 125,000 daily active users**, ensuring high throughput and seamless data availability.
+- Led the successful migration of core data systems from **Oracle to IBM DB2**, delivering a **14% boost in performance** and generating **significant annual cost savings** for the bank's infrastr[...]
+- Architected and deployed a **real-time data ingestion pipeline** to process **150+ million semi-structured records** from 10+ internal and external sources using **Apache Kafka** and **PySpark**[...]
+- Designed the **end-to-end data pipeline architecture** for a newly launched banking product, which scaled from **0 to 125,000 daily active users**, ensuring high throughput and seamless data ava[...]
 
 
 ### LTIMindtree (Larsen and Toubro Group Company) | **Data Engineer**
@@ -103,3 +103,5 @@ I’m a passionate Data Engineer with over 3 years of experience in developing, 
 ---
 
 Thank you for visiting my profile! Let's connect and create impactful data solutions together!
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abhishek-tiwari-30289a1a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhishek-tiwari-30289a1a7?trk=profile-badge">Abhishek Tiwari</a></div>
